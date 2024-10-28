@@ -11,6 +11,7 @@ I'm a passionate engineer specializing in **Competitive Programming**, **Machine
 - [Telegram](https://t.me/AhmedDi6b)
 - [Codeforces](https://codeforces.com/profile/shhth0034)
 - [Kaggle](https://www.kaggle.com/codecaoch)
+- [LeetCode](https://leetcode.com/u/f9QcZm2R1P/)
 - [LinkedIn](https://linkedin.com/in/eng-ahmed-diab-3b0631245)
 
 
