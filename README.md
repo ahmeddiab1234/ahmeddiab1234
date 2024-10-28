@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Ahmed Diab
-- 👀 I’m interested in ... Competitive Programming & Machine learning & Deep learning Engineering 
-- 🌱 I’m currently learning ... Competitive Programming & ML & DL 
-- 📫 How to reach me ... Telegram(https://t.me/AhmedDi6b) || Codeforce(https://codeforces.com/profile/shhth0034) || LinkedIn(https://linkedin.com/in/eng-ahmed-diab-3b0631245)
+# 👋 Hi, I'm Ahmed Diab
+
+### About Me
+I'm a passionate engineer specializing in **Competitive Programming**, **Machine Learning (ML)**, and **Deep Learning (DL)**. Always looking for challenging problems and cutting-edge AI solutions.
+
+### 🌱 Currently Learning
+- Advanced techniques in **ML & DL**
+- Expanding my expertise in **Competitive Programming**
+
+### 📫 How to Reach Me
+- [Telegram](https://t.me/AhmedDi6b)
+- [Codeforces](https://codeforces.com/profile/shhth0034)
+- [Kaggle](https://www.kaggle.com/codecaoch)
+- [LinkedIn](https://linkedin.com/in/eng-ahmed-diab-3b0631245)
 
 
 <!---
