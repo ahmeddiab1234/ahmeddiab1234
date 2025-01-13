@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Diab
 
 ### About Me
-I'm a passionate engineer specializing in **Competitive Programming**, **Machine Learning (ML)**, and **Deep Learning (DL)**. Always looking for challenging problems and cutting-edge AI solutions.
+I'm a passionate engineer specializing in **Software Engineering**, **Competitive Programming**, **Machine Learning (ML)**, and **Deep Learning (DL)**. Always looking for challenging problems and cutting-edge AI solutions.
 
 ### 🌱 Currently Learning
 - Advanced techniques in **ML & DL**
