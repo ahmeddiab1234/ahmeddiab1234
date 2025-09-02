@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ahmed Diab
 
+![](https://www.python.org/static/img/python-logo.png)
+
 ### About Me
 I'm a passionate engineer specializing in **Software Engineering**, **Competitive Programming**, **Machine Learning (ML)**, and **Deep Learning (DL)**. Always looking for challenging problems and cutting-edge AI solutions.
 
