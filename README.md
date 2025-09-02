@@ -5,7 +5,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="100" height="100">
 <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="" width="100" height="100">
 <img src="https://icon2.cleanpng.com/20180623/kwp/kisspng-web-development-html-software-development-software-modern-pattern-5b2e9b177ec089.4478529015297810155192.jpg" alt="" width="100" height="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s" alt="" width="100" height="100">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" width="100" height="100">
 <img src="https://cdn.creazilla.com/icons/3254162/opencv-icon-sm.png" alt="" width="100" height="100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDphNUlsNx_rJkHodtMWI2BjGiOJZvITapw&s" alt="" width="100" height="100">
 </p>
