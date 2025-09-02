@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Ahmed Diab
 
-![](https://images.icon-icons.com/112/PNG/512/python_18894.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png) ![](https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png) ![](https://cdn.creazilla.com/icons/3254162/opencv-icon-sm.png) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDphNUlsNx_rJkHodtMWI2BjGiOJZvITapw&s)
+<img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" alt="" width="400" height="250">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="400" height="250">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="" width="400" height="250">
+<img src="https://cdn.creazilla.com/icons/3254162/opencv-icon-sm.png" alt="" width="400" height="250">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDphNUlsNx_rJkHodtMWI2BjGiOJZvITapw&s" alt="" width="400" height="250">
 
 ### About Me
 I'm a passionate engineer specializing in **Software Engineering**, **Competitive Programming**, **Computer Vision**, **Machine Learning (ML)**, and **Deep Learning (DL)**. Always looking for challenging problems and cutting-edge AI solutions.
