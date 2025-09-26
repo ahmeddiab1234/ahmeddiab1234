@@ -18,6 +18,6 @@ I'm a passionate engineer specializing in **Software Engineering**, **Competitiv
 - [LinkedIn](https://linkedin.com/in/eng-ahmed-diab-3b0631245)
 - [Kaggle](https://www.kaggle.com/codecaoch)
 - [LeetCode](https://leetcode.com/u/f9QcZm2R1P/)
-- [Codeforces](https://codeforces.com/profile/shhth0034)
+- [Codeforces](https://codeforces.com/profile/Ahmed_Di7b)
 - [Email](shhth0034@gmail.com)
 
