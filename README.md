@@ -1,29 +1,56 @@
-# 👋 Hi, I'm Ahmed Diab
+<div align="center">
 
-<p align="center">
-  <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" alt="" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="100" height="100">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="" width="100" height="100">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" width="100" height="100">
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="" width="100" height="100">
-<img src="https://www.svgrepo.com/show/373554/django.svg" alt="" width="100" height="100">
-<img src="https://cdn.creazilla.com/icons/3254162/opencv-icon-sm.png" alt="" width="100" height="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDphNUlsNx_rJkHodtMWI2BjGiOJZvITapw&s" alt="" width="100" height="100">
-<img src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381" alt="" width="100" height="100">
-<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmongodb_original_wordmark_logo_icon_146425.png&id=146425&pack_or_individual=pack" alt="" width="100" height="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQ51UIzeBCLYLQ2Ayu_hHvAwcbrWBJWrAkw&s" alt="" width="100" height="100">
-<img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" alt="" width="100" height="100">
-</p>
+# Ahmed Diab
 
-### About Me
-I'm a passionate engineer specializing in **Software Engineering**, **Competitive Programming**, **Computer Vision**, **Machine Learning (ML)**, and **Deep Learning (DL)**. Always looking for challenging problems and cutting-edge AI solutions.
+** AI/CV Engineer · Software Engineer ·**
 
+[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://ahmeddiab1234.github.io/Elkarf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-ahmed-diab-3b0631245)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/codecaoch)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/f9QcZm2R1P/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahmed_Di7b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shhth0034@gmail.com)
 
-### 📫 How to Reach Me
-- [Website](https://ahmeddiab1234.github.io/Elkarf/)
-- [LinkedIn](https://linkedin.com/in/eng-ahmed-diab-3b0631245)
-- [Kaggle](https://www.kaggle.com/codecaoch)
-- [LeetCode](https://leetcode.com/u/f9QcZm2R1P/)
-- [Codeforces](https://codeforces.com/profile/Ahmed_Di7b)
-- [Email](shhth0034@gmail.com)
+</div>
+
+---
+
+## About Me
+
+I'm a passionate engineer focused on building intelligent systems at the intersection of software and AI. My work spans  computer vision, machine learning, and deep learning 
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Infrastructure & Data**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## Areas of Focus
+
+-  **Machine Learning & Deep Learning** — model design, training pipelines, optimization
+-  **Computer Vision** — image classification, object detection, segmentation
+-  **Competitive Programming** — algorithms, data structures, problem solving
+-  **Backend Engineering** — REST APIs, microservices, scalable systems
+
+---
 
